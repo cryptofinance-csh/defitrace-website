@@ -27,7 +27,7 @@
     </option>
     <option name="moduleParameters">
       <map>
-        <entry key="$PROJECT_DIR$/../../../../code/DeFi_token_balances/.idea/DeFi_token_balances.iml">
+        <entry key="$PROJECT_DIR$/../../../../../code/DeFi_token_balances/.idea/DeFi_token_balances.iml">
           <value>
             <JupyterConnectionParameters>
               <option name="authType" value="notebook" />
@@ -51,6 +51,37 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../defi_crime/code/CRIM-DeFi/.idea/CRIM-DeFi.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/anaconda3/envs/crime_venv/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../code/DeFi_token_balances/.idea/DeFi_token_balances.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="4b9ac46edce543cefbc7c7fcd436944d67058779408b4f4f" />
+              <option name="urlString" value="http://192.168.243.2:55001" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="4b9ac46edce543cefbc7c7fcd436944d67058779408b4f4f" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../daos-research/.idea/daos-research.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="8889" />
+              <option name="sdkHomePath" value="$USER_HOME$/anaconda3/envs/DeFi_token_balances/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../defi_crime/code/CRIM-DeFi/.idea/CRIM-DeFi.iml">
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
