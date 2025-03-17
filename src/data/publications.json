@@ -1,5 +1,29 @@
-[
-  {
+[{
+  "title": "Investigating Similarities Across Decentralized Finance (DeFi) Services",
+  "authors": "Luo, J., Kitzler, S., & Saggese, P.",
+  "year": "2025",
+  "journal": "Ledger",
+  "pages": "10",
+  "link": "https://doi.org/10.5195/ledger.2025.402"
+},
+{
+  "title": "Mapping the DeFi crime landscape: an evidence-based picture",
+  "authors": "Carpentier-Desjardins, C., Paquet-Clouston, M., Kitzler, S., & Haslhofer, B.",
+  "year": "2025",
+  "journal": "Journal of Cybersecurity",
+  "pages": "11(1)",
+  "link": "https://doi.org/10.1093/cybsec/tyae029"
+},
+
+{
+  "title": "The governance of decentralized autonomous organizations: A study of contributors’ influence, networks, and shifts in voting power",
+  "authors": "Kitzler, S., Balietti, S., Saggese, P., Haslhofer, B., & Strohmaier, M.",
+  "year": "2024",
+  "journal": "In International Conference on Financial Cryptography and Data Security",
+  "pages": "pp. 313-330",
+  "link": "https://doi.org/10.5195/ledger.2025.402"
+},
+{
   "title": "Assessing the solvency of virtual asset service providers: are current standards sufficient?",
   "authors": "P. Saggese, E. Segalla, M. Sigmund, B. Raunig, F. Zangerl, & B. Haslhofer",
   "year": "2024",
@@ -19,21 +43,5 @@
   "authors": "Haslhofer, B., Hanslbauer, C., Fröwis, M., & Goger, T.",
   "year": "2023",
   "journal": "2023 APWG Symposium on Electronic Crime Research (eCrime)"
-  },
-  {
-  "title": "Mapping the DeFi crime landscape: an evidence-based picture",
-  "authors": "Carpentier-Desjardins, C., Paquet-Clouston, M., Kitzler, S., & Haslhofer, B.",
-  "year": "2025",
-  "journal": "Journal of Cybersecurity",
-  "pages": "11(1)",
-  "link": "https://doi.org/10.1093/cybsec/tyae029"
-},
-{
-  "title": "Investigating Similarities Across Decentralized Finance (DeFi) Services",
-  "authors": "Luo, J., Kitzler, S., & Saggese, P.",
-  "year": "2025",
-  "journal": "Ledger",
-  "pages": "10",
-  "link": "https://doi.org/10.5195/ledger.2025.402"
-}
+  }
 ]
