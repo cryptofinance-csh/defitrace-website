@@ -1,9 +1,37 @@
 [
   {
+    "title": "The Economic Impact of DeFi Crime Events on Decentralized Autonomous Organizations (DAOs)",
+    "author": "S. Kitzler",
+    "venue": "Frontiers in DeFi",
+    "date": "September 2025",
+    "destination": "Berlin"
+  },
+  {
+    "title": "Privacy-enhancing technologies",
+    "author": "R. Böhme",
+    "venue": "BIS-IH Technology for the Future Financial System Workshop",
+    "date": "June 2025",
+    "destination": "Basel"
+  },
+  {
+    "title": "Digital Crypto Estates",
+    "author": "B. Haslhofer",
+    "venue": "Security Forum Hagenberg",
+    "date": "May 2025",
+    "destination": "Hagenberg, Austria"
+  },
+  {
+    "title": "Standardizing Crypto-Data Exchange | Lessons Learned",
+    "author": "B. Haslhofer",
+    "venue": "Blockchain Intelligence Forum",
+    "date": "April 2025",
+    "destination": "Bucharest"
+  },
+  {
     "title": "Future of Cybercrime Research",
     "author": "S. Kitzler",
     "venue": "APWG.EU Tech 2024",
-    "date": "Oct 2024",
+    "date": "October 2024",
     "destination": "Malaga"
   },
   {
@@ -16,7 +44,7 @@
   {
     "title": "The Governance of Decentralized Autonomous Organizations: A Study of Contributors' Influence, Networks, and Shifts in Voting Power",
     "author": "S. Kitzler",
-    "venue": "OeNB Research Semiar",
+    "venue": "OeNB Research Seminar",
     "date": "June 2024",
     "destination": "Vienna"
   },
@@ -34,40 +62,39 @@
     "date": "May 2024",
     "destination": "Hagenberg"
   },
-    {
+  {
     "title": "Mapping the DeFi Crime landscape",
     "author": "B. Haslhofer",
     "venue": "10th EUROPOL Virtual Currencies Conference",
     "date": "May 2024",
-    "destination": " The Hague, Netherlands",
-    "description": ""
+    "destination": "The Hague, Netherlands"
   },
   {
     "title": "Effizientere Kryptoasset Ermittlungen: Aktuelle Entwicklungen und strategische Überlegungen",
     "author": "B. Haslhofer",
+    "venue": "",
     "date": "April 2024",
-    "destination": "Schielleiten",
-    "description": ""
+    "destination": "Schielleiten"
   },
   {
     "title": "The Governance of Decentralized Autonomous Organizations: A Study of Contributors' Influence, Networks, and Shifts in Voting Power",
     "author": "S. Kitzler",
-    "venue": "Financial Cryptography 2024",
-    "date": "Mar 2024",
+    "venue": "Financial Cryptography",
+    "date": "March 2024",
     "destination": "Curaçao"
   },
   {
     "title": "Mapping the DeFi Crime Landscape: An Evidence-based Picture",
     "author": "S. Kitzler",
     "venue": "Workshop Generalstaatsanwaltschaft Braunschweig",
-    "date": "Feb 2024",
+    "date": "February 2024",
     "destination": "Braunschweig"
   },
   {
     "title": "Mapping the DeFi Crime Landscape: An Evidence-based Picture",
     "author": "S. Kitzler",
     "venue": "CFLW Meet-Up",
-    "date": "Jan 2024",
+    "date": "January 2024",
     "destination": "Online"
   },
   {
@@ -75,15 +102,13 @@
     "author": "B. Haslhofer",
     "venue": "Diplomatic Academy of Vienna",
     "date": "December 2023",
-    "destination": "Vienna",
-    "description": ""
+    "destination": "Vienna"
   },
   {
     "title": "Mapping the DeFi Crime Landscape – An Evidence-based Picture",
     "author": "B. Haslhofer",
     "venue": "2nd INTERPOL New Technologies Forum",
     "date": "October 2023",
-    "destination": "Erlangen",
-    "description": ""
+    "destination": "Erlangen"
   }
 ]

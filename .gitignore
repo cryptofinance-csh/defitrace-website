@@ -18,6 +18,13 @@ npm-debug.log*
 package-lock.json
 codekit-config.json
 
+# Astro
+.astro
+
+# IDE
+.idea/
+.vscode/
+
 # macOS
 .DS_Store
 
